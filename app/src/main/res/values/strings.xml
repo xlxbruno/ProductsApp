@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Store</string>
+    <string name="title_activity_welcome_screen">WelcomeScreen</string>
+    <string name="title_activity_select_screen">SelectScreen</string>
+    <string name="title_activity_seller_dashboard">SellerDashboard</string>
+    <string name="title_activity_buyer">BuyerActivity</string>
+    <string name="title_activity_buyer_dashboard">BuyerDashboard</string>
+    <string name="title_activity_view_store">ViewStore</string>
+    <string name="title_activity_view_store_b">ViewStoreB</string>
+    <string name="title_activity_show_highlights">ShowHighlights</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_otpverification">OTPVerification</string>
+    <string name="title_activity_view_inventory">ViewInventory</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_side_navigation">SideNavigationActivity</string>
+    <string name="title_activity_bottom_navigation">BottomNavigationActivity</string>
+</resources>
